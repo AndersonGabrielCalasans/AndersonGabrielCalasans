@@ -1,4 +1,4 @@
-## Hello welcome! I am Gabriel Calasans 🙂👋
+## Hello, i'm Gabriel Calasans, welcome to my GitHub! 🙂👋
 
 - 🔭 I'm currently an electronic engineering student and I'm transitioning from a broker to a data scientist
 - 📚 My focus is on learning:
@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/AndersonGabrielCalasans">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndersonGabrielCalasans&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGabrielCalasans&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AndersonGabrielCalasans&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGabrielCalasans&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -31,3 +31,5 @@
   <a href = "mailto:andersongabriel08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-calasans-10ab26196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  ![Snake animation](https://github.com/AndersonGabrielCalasans/AndersonGabrielCalasans/blob/output/github-contribution-grid-snake.svg)
