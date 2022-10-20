@@ -1,6 +1,6 @@
 ## Hello, i'm Gabriel Calasans, welcome to my GitHub! 🙂👋
 
-- 🔭 I'm currently an electronic engineering student and I'm transitioning from a broker to a data scientist
+- 🔭 I'm currently an electronic engineering student and I'm transitioning from a broker to a data engineering
 - 📚 My focus is on learning:
   - Exploratory Data Analysis; 📊
   - Predictive Data Analysis; 🔎
