@@ -1,14 +1,21 @@
-## Hello, i'm Gabriel Calasans, welcome to my GitHub! 🙂👋
+## Olá, me chamo Gabriel Calasans, sejam bem vindos ao meu GitHub! 🙂👋
 
-- 🔭 I'm currently an electronic engineering student and I'm transitioning from a broker to a data engineering
-- 📚 My focus is on learning:
-  - Exploratory Data Analysis; 📊
-  - Predictive Data Analysis; 🔎
-  - Programming in Python; 👨🏻‍💻
-  - Programming in SQL and NoSQL Databases; 🎲
-  - Extraction, transformation and loading of Big Data for Analysis; ⛏
-- 📫 How to reach me: andersongabriel08@gmail.com 📩
-- 😄 Pronouns: He/Him
+Engenheiro de Dados em formação. Migrando de carreira, todos os dias estou colocando um tijolo para reescrever a minha história profissional por meio de muito esforço, dedicação e estudos. Voltando a faculdade para terminar a minha graduação e estudando para desenvoler o necessário para me tornar um profissional de dados.
+
+Te convido a conhecer meu GitHub e posts aqui do LinkedIn 👇🏻
+
+Meu foco está direcionado em aprender:
+- ⛏ Extração, transformação e carregamento de Big Data para Análise; 
+- 👨🏻‍💻 Programação em Python; 
+- 📊 Análise Exploratória de Dados; 
+- 🔎 Infraestrutura e alta disponibilidade dos dados; 
+- 🎲 Programação em Bancos de Dados SQL e NoSQL; 
+
+Cursos em andamento:
+- 📚 Cloud DevOps Experience - Banco Carrefour - Previsão término em 04/12/2022 (Digital Innovation One - DIO);
+- 📘 Bootcamp - Engenharia de Dados - Previsão de término em 30/01/2023 (SoulCode Academy);
+- 📓 Microsoft Power BI Para Data Science, Versão 2.0 - Previsão de término em 30/02/2023 (Data Science Academy)
+- 📖 Bacharelado em Engenharia Elétrica com ênfase em Eletrônica - Conclusão em 12/2024 (UFRPE)
 
 <div align="center">
   <a href="https://github.com/AndersonGabrielCalasans">
