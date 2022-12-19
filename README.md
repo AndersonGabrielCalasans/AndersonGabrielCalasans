@@ -34,5 +34,3 @@ Engenheiro de Dados em formação. Migrando de carreira, todos os dias estou col
  <a href="https://discord.gg/28eNzremaY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:andersongabriel08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-
-  ![Snake animation](https://github.com/AndersonGabrielCalasans/AndersonGabrielCalasans/blob/output/github-contribution-grid-snake.svg)
