@@ -1,11 +1,11 @@
   <div>
-  <p align="center"> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" target="_blank" rel="noreferrer"> <img src="https://github.com/AndersonGabrielCalasans/AndersonGabrielCalasans/blob/main/Portfolio%201%20-%20AZUL%20HOMEgithub.png" alt="gcp" width="1800" height="450"/> </a>
+  <p align="center"> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" target="_blank" rel="noreferrer"> <img src="https://github.com/AndersonGabrielCalasans/AndersonGabrielCalasans/blob/main/Portfolio%201%20-%20AZUL%20HOMEgithub.png" alt="gcp" width="1800" height="400"/> </a>
 
 <div align="center">
 <h2 align="left"></h2>
   <a href="https://github.com/AndersonGabrielCalasans">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=AndersonGabrielCalasans&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGabrielCalasans&layout=compact&langs_count=7&theme=ligth"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=AndersonGabrielCalasans&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGabrielCalasans&layout=compact&langs_count=7&theme=ligth"/>
 </div>
  
  <div>  
