@@ -1,37 +1,24 @@
-# Oii, sou Gabriel Calasans, sejam bem vindos ao meu GitHub! 🙂👋
-
-Engenheiro de Dados em formação. Migrando de carreira, todos os dias estou colocando um tijolo para reescrever a minha história profissional por meio de muito esforço, dedicação e estudos. Voltando a faculdade para terminar a minha graduação e estudando para desenvoler o necessário para me tornar um profissional de dados.
-
-## Meu foco está direcionado em aprender:
-- ⛏ Extração, transformação e carregamento de Big Data para Análise; 
-- 👨🏻‍💻 Programação em Python; 
-- 📊 Análise Exploratória de Dados; 
-- 🔎 Infraestrutura e alta disponibilidade dos dados; 
-- 🎲 Programação em Bancos de Dados SQL e NoSQL; 
-
-## Formação Acadêmica e cursos em andamento:
-- 📖 Bacharelado em Engenharia Elétrica com ênfase em Eletrônica - Conclusão em 12/2024 (UFRPE)
-- 📚 Cloud DevOps Experience - Banco Carrefour - Previsão término em 04/12/2022 (Digital Innovation One - DIO);
-- 📘 Bootcamp - Engenharia de Dados - Previsão de término em 30/01/2023 (SoulCode Academy);
-- 📓 Microsoft Power BI Para Data Science, Versão 2.0 - Previsão de término em 30/02/2023 (Data Science Academy)
+  <div>
+  <p align="center"> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" target="_blank" rel="noreferrer"> <img src="https://github.com/AndersonGabrielCalasans/AndersonGabrielCalasans/blob/main/Portfolio%201%20-%20AZUL%20HOMEgithub.png" alt="gcp" width="1800" height="450"/> </a>
 
 <div align="center">
+<h2 align="left"></h2>
   <a href="https://github.com/AndersonGabrielCalasans">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndersonGabrielCalasans&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGabrielCalasans&layout=compact&langs_count=7&theme=ligth"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=AndersonGabrielCalasans&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGabrielCalasans&layout=compact&langs_count=7&theme=ligth"/>
 </div>
  
-  
+ <div>  
 <h2 align="left">Minhas principais skills:</h2>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-  </div>
-  
-  <h2 align="left">Portifólio:</h2>
-  <p align="center"> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" target="_blank" rel="noreferrer"> <img src="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" alt="gcp" width="600" height="373.5"/> </a>
-
-</div>
-  
+<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
+                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
+                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+                 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a> 
+                 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" </a> 
+                 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> 
+                 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> 
+                 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a> </p>
+ </div>
 
 <h2 align="left">Meus contatos:</h2>  
 <div align="left">
