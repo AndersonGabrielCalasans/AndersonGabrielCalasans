@@ -27,6 +27,11 @@ Engenheiro de Dados em formação. Migrando de carreira, todos os dias estou col
 
   </div>
   
+  <h2 align="left">Portifólio:</h2>
+  <p align="center"> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" target="_blank" rel="noreferrer"> <img src="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" alt="gcp" width="600" height="373.5"/> </a>
+
+</div>
+  
 
 <h2 align="left">Meus contatos:</h2>  
 <div align="left">
