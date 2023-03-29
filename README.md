@@ -1,5 +1,5 @@
   <div>
-  <p align="center"> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" target="_blank" rel="noreferrer"> <img src="https://github.com/AndersonGabrielCalasans/AndersonGabrielCalasans/blob/main/Portfolio%201%20-%20AZUL%20HOMEgithub.png" alt="gcp" width="1800" height="400"/> </a>
+  <p align="center"> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmQzNzFiNTItOTg2Zi00OGU0LTkwN2UtZWEyY2NkMGQyNjM4IiwidCI6ImY2MjE3YjlhLTNhZWMtNGJkMi04Y2E1LTkwMTY3Mzk3OTdlOCJ9&pageName=ReportSection" target="_blank" rel="noreferrer"> <img src="https://github.com/AndersonGabrielCalasans/AndersonGabrielCalasans/blob/main/images/Portfolio%201%20-%20AZUL%20HOME.png" alt="gcp" width="1800" height="400"/> </a>
 
 <div align="center">
 <h2 align="left"></h2>
